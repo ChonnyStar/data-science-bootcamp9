@@ -1,6 +1,6 @@
-# data science boothcamp Batch 9
+# data science Bootcamp Batch 9
 
-I'm learning data science boothcamp. There are 10 sprints in the program
+I'm learning data science boot camp. There are 10 sprints in the program
 
 ## First part of the program
 
